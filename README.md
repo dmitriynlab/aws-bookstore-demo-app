@@ -5,6 +5,12 @@ AWS Bookstore Demo App is a full-stack sample web application that creates a sto
 You can browse and search for books, look at recommendations and best sellers, manage your cart, checkout, view your orders, and more.  Get started with building your own below!
 &nbsp;
 
+reInvent Video:
+  https://www.youtube.com/watch?v=-pb-DkD6cWg
+  
+Blog article:
+  https://aws.amazon.com/blogs/database/building-a-modern-application-with-purpose-built-aws-databases/
+
 ## License Summary
 
 This sample code is made available under a modified MIT license. See the LICENSE file.
